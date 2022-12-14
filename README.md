@@ -1,7 +1,11 @@
 # Kotlin_Flow_with_Retrofit_MVVM
 
-      implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
-      annotationProcessor 'androidx.lifecycle:lifecycle-compiler:2.2.0'
+
+       implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+       implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+       implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9'
+       implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+       annotationProcessor 'androidx.lifecycle:lifecycle-compiler:2.2.0'
       
       
 ![1_z3_p6gvk7411V2i2KRgDMQ](https://user-images.githubusercontent.com/60017090/197410128-5e426971-9ccd-4436-a279-97056ad8e828.png)
